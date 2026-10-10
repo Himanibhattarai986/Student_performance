@@ -4,9 +4,9 @@
 In this project, I will work with a student performance dataset to clean the data, explore it, and find useful insights about students' academic performance using Python, Pandas, and SQL.
 
 ## Tools
-- **Python** – to write and run the code.
-- **Pandas** – to clean and analyze the data.
-- **SQL** – to store, query, and analyze the data.
+- **Python** 
+- **Pandas** 
+- **SQL** 
 
 ## Project Goals
 - Understand and clean the dataset.
